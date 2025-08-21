@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: rootyml
+    password: 123456yml

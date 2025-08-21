@@ -1,0 +1,5 @@
+spring:
+  data:
+    redis:
+      host: localhostyml
+      port: 6379
