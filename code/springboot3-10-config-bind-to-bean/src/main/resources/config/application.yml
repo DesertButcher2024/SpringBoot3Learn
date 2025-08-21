@@ -1,0 +1,45 @@
+myapp:
+  a:
+    username: jacksonyml
+    password: 123456yml
+    age: 30
+    gender: false
+
+app:
+  xyz:
+    name: lucy_yml
+    addr:
+      city: TJ
+      street: NanKai
+
+
+other:
+  abc:
+    city: BEIJING
+    street: tongzhouqu
+
+app2:
+  abc:
+    names:
+      - tom2
+      - smith2
+#    names: [jack, lucy]
+#    addrArray:
+    addr-array:
+      - city: BeiJing2
+        street: ChaoYang2
+      - city: TianJin2
+        street: NanKai2
+#    addrList:
+    addr-list:
+      - city: BeiJing_List2
+        street: ChaoYang_List2
+      - city: TianJin_List2
+        street: NanKai_List2
+    addrs:
+      addr1:
+        city: BeiJing_Map2
+        street: ChaoYang_Map2
+      addr2:
+        city: TianJin_Map2
+        street: NanKai_Map2
